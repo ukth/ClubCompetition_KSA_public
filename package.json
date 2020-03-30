@@ -1,0 +1,16 @@
+{
+  "name": "clubcompetition",
+  "version": "1.0.0",
+  "description": "2017 SAF club competition",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "UKth",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "pg": "^6.1.5"
+  }
+}
