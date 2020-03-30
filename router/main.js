@@ -5,7 +5,7 @@ module.exports = function(app)
 {
 
   // 키보드
-  var config = { // Didn't split config file, so I made copy for github
+  var config = { // Didn't split config file, so I made copy for github public repository
     user: '#', //env var: PGUSER
     database: '#', //env var: PGDATABASE
     password: '#', //env var: PGPASSWORD
